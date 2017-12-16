@@ -1,0 +1,10 @@
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\Quest\bin\Debug\Quest.dll
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\Quest\bin\Debug\Quest.pdb
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\Quest\obj\Debug\Quest.dll
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\Quest\obj\Debug\Quest.pdb
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\Quest\bin\Debug\Quest.dll
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\Quest\bin\Debug\Quest.pdb
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\Quest\obj\Debug\Quest.dll
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\Quest\obj\Debug\Quest.pdb

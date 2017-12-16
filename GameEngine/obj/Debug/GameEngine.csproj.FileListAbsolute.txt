@@ -1,0 +1,18 @@
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\GameEngine.dll
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\GameEngine.pdb
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\FormsContainerLibrary.dll
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\Quest.dll
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\FormsContainerLibrary.pdb
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\Quest.pdb
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\GameEngine\obj\Debug\GameEngine.dll
+C:\Users\micro\Desktop\Who_Wants_To_Be_A_Millionere\GameEngine\obj\Debug\GameEngine.pdb
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\GameEngine.dll
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\GameEngine.pdb
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\FormsContainerLibrary.dll
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\Quest.dll
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\FormsContainerLibrary.pdb
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\GameEngine\bin\Debug\Quest.pdb
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\GameEngine\obj\Debug\GameEngine.dll
+E:\Программирование\dot NET\Вспомогательные материалы\МоиПрограмки\Who_Wants_To_Be_A_Millionere\GameEngine\obj\Debug\GameEngine.pdb
